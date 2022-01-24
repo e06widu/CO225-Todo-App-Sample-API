@@ -1,0 +1,39 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "content": "JSON SERVER",
+            "isCompleted": true,
+            "author": "Janith",
+            "createdAt": "24-01-2022"
+        },
+        {
+            "id": 2,
+            "content": "REACT",
+            "isCompleted": false,
+            "author": "Janith",
+            "createdAt": "25-01-2022"
+        },
+        {
+            "id": 3,
+            "content": "BOOTSTRAP",
+            "isCompleted": true,
+            "author": "Sanath",
+            "createdAt": "24-01-2022"
+        },
+        {
+            "id": 4,
+            "content": "MEDIUM",
+            "isCompleted": true,
+            "author": "Sanath",
+            "createdAt": "24-01-2022"
+        },
+        {
+            "content": "JSON SERVER 1",
+            "isCompleted": true,
+            "author": "Janith",
+            "createdAt": "24-01-2022",
+            "id": 5
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "co225-todo_api",
+  "version": "1.0.0",
+  "description": "sample api for todo app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Janith Widarshana",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
